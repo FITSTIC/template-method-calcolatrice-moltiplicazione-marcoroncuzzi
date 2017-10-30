@@ -1,0 +1,7 @@
+c:\users\marco.roncuzzi\documents\visual studio 2017\Projects\moltiplicazione\moltiplicazione\bin\Debug\moltiplicazione.exe.config
+c:\users\marco.roncuzzi\documents\visual studio 2017\Projects\moltiplicazione\moltiplicazione\bin\Debug\moltiplicazione.exe
+c:\users\marco.roncuzzi\documents\visual studio 2017\Projects\moltiplicazione\moltiplicazione\bin\Debug\moltiplicazione.pdb
+c:\users\marco.roncuzzi\documents\visual studio 2017\Projects\moltiplicazione\moltiplicazione\obj\Debug\moltiplicazione.csprojResolveAssemblyReference.cache
+c:\users\marco.roncuzzi\documents\visual studio 2017\Projects\moltiplicazione\moltiplicazione\obj\Debug\moltiplicazione.csproj.CoreCompileInputs.cache
+c:\users\marco.roncuzzi\documents\visual studio 2017\Projects\moltiplicazione\moltiplicazione\obj\Debug\moltiplicazione.exe
+c:\users\marco.roncuzzi\documents\visual studio 2017\Projects\moltiplicazione\moltiplicazione\obj\Debug\moltiplicazione.pdb
